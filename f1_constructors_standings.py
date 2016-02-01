@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#
+
 import urllib2
 
 url = 'http://ergast.com/api/f1/current/constructorStandings'
