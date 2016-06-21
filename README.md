@@ -4,7 +4,7 @@
 
 **Usage:**
 ```
-$get_F1_data.py [-h] [-race] [-q] [-d] [-c] [-y YEAR] [-r ROUND] [-v]
+$ get_F1_data.py [-h] [-race] [-q] [-d] [-c] [-y YEAR] [-r ROUND] [-v]
 
 Python script to fetch Formula 1 data.
 
@@ -23,7 +23,7 @@ optional arguments:
 
 Examples:
 
-$get_F1_data.py -d
+$ get_F1_data.py -d
 
 1  Nico      Rosberg    141
 2  Lewis     Hamilton   117
@@ -49,7 +49,7 @@ $get_F1_data.py -d
 22 Pascal    Wehrlein   0
 23 Rio       Haryanto   0
 
-$et_F1_data.py -c
+$ get_F1_data.py -c
 
 1  Mercedes       258
 2  Ferrari        177
@@ -63,7 +63,7 @@ $et_F1_data.py -c
 10 Sauber         0
 11 Manor Marussia 0
 
-$get_F1_data.py -y 2016 -r 8 -q
+$ get_F1_data.py -y 2016 -r 8 -q
 
 European Grand Prix - 2016-06-19
 ---------------------------------
@@ -90,7 +90,7 @@ European Grand Prix - 2016-06-19
 21 Kevin     Magnussen     1:46.348
 22 Jolyon    Palmer        1:46.394
 
-$get_F1_data.py -y 1993 -r 5 -race
+$ get_F1_data.py -y 1993 -r 5 -race
 
 Spanish Grand Prix - 1993-05-09
 ---------------------------------
