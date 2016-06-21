@@ -2,7 +2,10 @@
 
 **This Python script provides data for the Formula One series, from the beginning of the world championships in 1950.**
 
-**Usage:**
+### Requirement
+Python 2.7
+
+Usage:
 ```
 $ get_F1_data.py [-h] [-race] [-q] [-d] [-c] [-y YEAR] [-r ROUND] [-v]
 
