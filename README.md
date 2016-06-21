@@ -1,9 +1,9 @@
-Fetch Formula1 data using Ergast Developer API.
+## Fetch Formula1 data using Ergast Developer API.
 
-This Python script provides data for the Formula One series, from the beginning of the world championships in 1950.
+**This Python script provides data for the Formula One series, from the beginning of the world championships in 1950.**
 
-Usage:
-
+**Usage:**
+```
 $get_F1_data.py [-h] [-race] [-q] [-d] [-c] [-y YEAR] [-r ROUND] [-v]
 
 Python script to fetch Formula 1 data.
@@ -120,3 +120,4 @@ Spanish Grand Prix - 1993-05-09
 24 Ukyo      Katayama      0
 25 Johnny    Herbert       0
 26 Michele   Alboreto      0
+```
